@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1558879738 source:c:\users\Сеня\desktop\Дискретка\Лаба 1.6\das\main.cpp
+	<iostream>
+	"puzzle_game.h"
+	<vector>
+	<random>
+
+1558807181 c:\users\Сеня\desktop\Дискретка\Лаба 1.6\das\puzzle_game.h
+	"board.h"
+	<unordered_map>
+	<unordered_set>
+	<queue>
+
+1558806977 c:\users\Сеня\desktop\Дискретка\Лаба 1.6\das\board.h
+	<vector>
+	<string>
+
+1558853497 source:c:\users\Сеня\desktop\Дискретка\Лаба 1.6\das\board.cpp
+	"board.h"
+	<algorithm>
+	<random>
+	<iostream>
+
+1558807181 source:c:\users\Сеня\desktop\Дискретка\Лаба 1.6\das\puzzle_game.cpp
+	"puzzle_game.h"
+	<iostream>
+	<queue>
+	<algorithm>
+
